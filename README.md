@@ -49,6 +49,7 @@ Além de criar a landing page para a cafeteria, foram aplicadas as seguintes mod
 
 - [Thiago Pereira](https://github.com/thiago-rspereira)
 
-## Licença 📝
+## Conecte-se comigo nas redes sociais e vamos continuar essa jornada juntos!
 
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/trspereira)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trspereira)

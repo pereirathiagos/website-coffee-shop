@@ -32,15 +32,10 @@ Além de criar a landing page para a cafeteria, foram aplicadas as seguintes mod
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 
-
 ## Screenshots 📷
 
 ![screencapture-127-0-0-1-5501-index-html-2024-04-22-11_04_57](https://github.com/thiago-rspereira/website-coffee-shop/assets/133459464/8add80c5-6c38-4539-be12-2142dc16ddf1)
 
-
-
-### 📱 Mobile
-![Mobile](url_da_imagem_mobile)
 
 ## Como Contribuir 🤝
 
